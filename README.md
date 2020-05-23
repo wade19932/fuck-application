@@ -3,9 +3,7 @@
 https://spring.io/guides
 https://spring.io/guides/gs/serving-web-content/
 https://www.google.ca/search?ei=kvzHXtbdNJPi-gTdjqWoCQ&q=レクサス
-<<<<<<< HEAD
-   https://letslook.net/super/ss/591407/overview
-=======
+https://letslook.net/super/ss/591407/overview
 https://letslook.net/super/ss/591407/overview
 
 
