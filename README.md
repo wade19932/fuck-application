@@ -2,18 +2,12 @@
 
 ##资料
 
-https://spring.io/guides
-
-https://spring.io/guides/gs/serving-web-content/
-
-https://www.google.ca/search?ei=kvzHXtbdNJPi-gTdjqWoCQ&q=レクサス
-
-https://letslook.net/super/ss/591407/overview
+[Spring 文档](https://spring.io/guides)
+[Spring Web文档](https://spring.io/guides/gs/serving-web-content/)
 
 ##工具
 
-https://github.com
+[Github 官网](https://github.com)
+[Bootstrap](https://v3.bootcss.com/components/#navbar)
+[Github oauth 文档](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
 
-https://photalks.com/categories/攝影基本/
-
-https://www.zhihu.com/search?type=content&q=git%20安装
