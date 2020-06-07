@@ -1,10 +1,10 @@
-package motherfuck;
+package life.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FuckApplicationTests {
+class fuckApplicationTests {
 
 	@Test
 	void contextLoads() {
